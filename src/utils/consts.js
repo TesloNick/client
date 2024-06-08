@@ -1,0 +1,7 @@
+export const PROFILE_ROUTE = '/profile'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const ORDER_FORM_ROUTE = '/order'
+export const SERVICELIST_ROUTE = '/service'
+export const CONTACTS_ROUTE = '/contacts'
+export const MAIN_ROUTE = '/'
